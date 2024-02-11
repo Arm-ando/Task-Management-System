@@ -12,8 +12,6 @@ The project aims to achieve the following objectives:
 
 3. **Error Handling**: The system handles errors such as duplicate usernames during registration and ensures that tasks can only be edited if they have not been completed.
 
-4. **Efficiency**: Code efficiency is emphasized to ensure optimal performance. Functions are designed to perform specific tasks effectively, and redundant code is minimized.
-
 ## Features
 
 ### 1. User Registration (`r`)
